@@ -19,7 +19,7 @@ The trajectory of this study synthesizes classical surface theory with modern di
   * *[Chapter 0: Calculus in the Euclidean Space] (In Progress)*
 * 📂 Problem Sets:
   * *[Problem Set 0: Calculus in the Euclidean Space] (Coming Soon)*
-* 📝 [Expository Paper: Working Title/Topic] — *(Coming Soon)* A research-focused synthesis connecting geometric curvature to modern gauge theories.
+* 📝 [Expository Paper: The Aharonov–Bohm Effect: A Geometric Formulation via Connections and Holonomy] — *(Coming Soon)* A research-focused synthesis connecting geometric curvature to modern gauge theories.
 
 ## 🎯 Core Objectives
 
