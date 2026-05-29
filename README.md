@@ -1,6 +1,6 @@
 # diff-geo-directed-study
 
-Notes, syllabus, and study materials for an independent directed study in Differential Geometry.
+Notes, syllabus, and study materials for an independent study in Differential Geometry.
 
 This repository contains my independent directed study notes, curriculum, and materials on Differential Geometry.
 
