@@ -16,7 +16,8 @@ The trajectory of this study synthesizes classical surface theory with modern di
 
 * 📄 [Differential Geometry Syllabus](Differential_Geometry_Syllabus.pdf) — The formalized, week-by-week directed study syllabus detailing learning outcomes and benchmarks.
   📂 **Notes (Organized by topic):**
-  * 📄 [Chapter 0: Preliminary Concepts/Terminology](Chpt_0.pdf)
+  * [Chapter 0: Preliminary Concepts/Terminology](Chpt_0.pdf)
+  * [Chapter 1: Curves](Chpt_1.pdf)
 
   📂 **Problem Sets:**
   * [ONeill: Section 1.1 Problem Set](ONeill_1.1_ProblemSet.pdf)
