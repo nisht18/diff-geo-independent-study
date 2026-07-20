@@ -17,7 +17,7 @@ The trajectory of this study synthesizes classical surface theory with modern di
 * 📄 [Differential Geometry Syllabus](Differential_Geometry_Syllabus.pdf) — The formalized, week-by-week directed study syllabus detailing learning outcomes and benchmarks.
 
    📂 **Notes (Organized by topic):**
-  * **[Aharonov–Bohm Effect](ABE_TeX.pdf)**
+  * **[Aharonov–Bohm Effect (Quantum Mechanical Perspective)](ABE_TeX.pdf)**
 
 * 📝 [Expository Paper: The Aharonov–Bohm Effect: A Geometric Formulation via Connections and Holonomy] — *(Coming Soon)* A research-focused synthesis connecting geometric curvature to modern gauge theories.
 
