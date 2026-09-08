@@ -8,9 +8,18 @@ This repository contains my independent directed study notes, curriculum, and ma
 
 The trajectory of this study synthesizes classical surface theory with modern differential-geometric methods in mathematical physics:
 
-1. **Primary Text:** *Differential Geometry of Curves and Surfaces* by Manfredo P. do Carmo.
-2. **Supplementary Text:** *Elementary Differential Geometry* by Barrett O'Neill.
-3. **Advanced References:** John M. Lee’s *Introduction to Smooth Manifolds* and *Introduction to Riemannian Manifolds*, Theodore Frankel’s *The Geometry of Physics*, and Robert Wald’s *General Relativity*.
+1. **Primary Text**
+   * *Differential Geometry of Curves and Surfaces* by Manfredo P. do Carmo
+
+2. **Supplementary Text**
+   * *Elementary Differential Geometry* by Barrett O'Neill
+
+3. **Advanced References**
+   * *Introduction to Smooth Manifolds* by John M. Lee
+   * *Introduction to Riemannian Manifolds* by John M. Lee
+   * *The Geometry of Physics* by Theodore Frankel
+   * *Geometry, Topology and Physics* by Mikio Nakahara
+   * *General Relativity* by Robert Wald
 
 ## 🗂 Repository Structure
 
