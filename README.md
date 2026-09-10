@@ -32,6 +32,7 @@ The trajectory of this study synthesizes classical surface theory with modern di
   * **[Covariant Derivatives](ONeill_2.5_Notes.pdf)**
   * **[Connection Forms](ONeill_2.7_Notes.pdf)**
   *  **[Structural Equations](ONeill_2.8_Notes.pdf)**
+  *  **[Gauge Theory](Nakahara_8_Notes.pdf)**
 
 * 📝 [Expository Paper: The Aharonov–Bohm Effect: A Geometric Formulation via Connections and Holonomy] — *(Coming Soon)* A research-focused synthesis connecting geometric curvature to modern gauge theories.
 
