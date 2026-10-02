@@ -34,7 +34,7 @@ The trajectory of this study synthesizes classical surface theory with modern di
   *  **[Structural Equations](ONeill_2.8_Notes.pdf)**
   *  **[Gauge Theory](Nakahara_8_Notes.pdf)**
 
-* 📝 **[Expository Paper: The Aharonov–Bohm Effect: A Geometric Formulation via Connections and Holonomy](DG_Expo_Paper.pdf)**  
+* 📝 **[Expository Paper: The Aharonov–Bohm Effect: A Geometric Formulation via Connections and Holonomy](DG_Expo_Paper.pdf)**  (A research-focused synthesis connecting geometric curvature to modern gauge theories).
 
 
 ## 🎯 Core Objectives
